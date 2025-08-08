@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="[https://your-banner-image-url.com/banner.gif]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8m2i8G6H7d3K9_iron-man-logo-poster%2F&psig=AOvVaw0brwAJymUClAg-JmrLERMZ&ust=1754764312460000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC3otXs-44DFQAAAAAdAAAAABAL](https://imgur.com/gallery/i-am-iron-man-qfrA4yu#LsYGhOn))" alt="Purunjay's Banner" width="100%" />
+  <img src="https://i.imgur.com/V0bGBjp.gif" alt="Purunjay's Banner" width="100%" />
 </p>
 
 <!-- MAIN HEADING -->
@@ -92,14 +92,6 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Watch my Contributions get eaten</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChPuru/ChPuru/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
 <table align="center">
@@ -109,41 +101,33 @@
     <img src="https://your-image-or-gif-link.com/jarvis.gif" alt="JARVIS" width="100%">
   </a>
   <br><strong>JARVIS</strong>
-  <p>AI-powered personal assistant with voice commands, automation, and API integrations.</p>
+  <p>AI-powered personal assistant capable of automation, natural language interaction, and system integration.</p>
 </td>
+<td align="center" width="50%">
+  <a href="https://github.com/ChPuru/devhub">
+    <img src="https://your-image-or-gif-link.com/devhub.gif" alt="DevHub" width="100%">
+  </a>
+  <br><strong>DevHub</strong>
+  <p>A developer productivity platform integrating code snippets, project tracking, and API tools in one dashboard.</p>
+</td>
+</tr>
+<tr>
 <td align="center" width="50%">
   <a href="https://github.com/ChPuru/Portfolio">
     <img src="https://your-image-or-gif-link.com/portfolio.gif" alt="Portfolio" width="100%">
   </a>
   <br><strong>Portfolio Website</strong>
-  <p>Personal portfolio built with Next.js and TailwindCSS, featuring smooth animations and responsive design.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/ChPuru/TaskManager">
-    <img src="https://your-image-or-gif-link.com/taskmanager.gif" alt="Task Manager" width="100%">
-  </a>
-  <br><strong>Task Manager</strong>
-  <p>Full-stack task tracking app with JWT authentication, built with MERN stack.</p>
+  <p>My personal portfolio built with Next.js and TailwindCSS, showcasing my work and skills.</p>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/ChPuru/Weather-App">
-    <img src="https://your-image-or-gif-link.com/weather.gif" alt="Weather App" width="100%">
+  <a href="https://github.com/ChPuru/System-Monitor">
+    <img src="https://your-image-or-gif-link.com/system-monitor.gif" alt="System Monitor" width="100%">
   </a>
-  <br><strong>Weather App</strong>
-  <p>Real-time weather dashboard using OpenWeather API and React.</p>
+  <br><strong>System Monitor</strong>
+  <p>A lightweight tool for real-time system metrics visualization using Python and Electron.</p>
 </td>
 </tr>
 </table>
-
----
-
-<!-- SPOTIFY STATUS -->
-<h2 align="center">🎧 Now Playing on Spotify</h2>
-<p align="center">
-  <img src="https://novatorem-ChPuru.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</p>
 
 ---
 
