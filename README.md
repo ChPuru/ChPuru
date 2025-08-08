@@ -22,13 +22,13 @@
 <pre>
 <b>ChPuru@github</b>
 --------------------
-<b>OS:</b>           GitHub
+<b>OS:</b>           Arch
 <b>Host:</b>         Purunjay
 <b>Uptime:</b>       19 years
 <b>Shell:</b>        zsh
-<b>Editor:</b>       VSCode
+<b>Editor:</b>       Vim
 <b>Resolution:</b>   1920x1080
-<b>WM:</b>           Creative
+<b>WM:</b>           Hyprland(riced)
 <b>Theme:</b>        Tokyo Night
 
 --- <b>About Me</b> ---
@@ -89,45 +89,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChPuru&theme=tokyonight&row=1&column=7" />
 </p>
-
----
-
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/ChPuru/JARVIS">
-    <img src="https://your-image-or-gif-link.com/jarvis.gif" alt="JARVIS" width="100%">
-  </a>
-  <br><strong>JARVIS</strong>
-  <p>AI-powered personal assistant capable of automation, natural language interaction, and system integration.</p>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/ChPuru/devhub">
-    <img src="https://your-image-or-gif-link.com/devhub.gif" alt="DevHub" width="100%">
-  </a>
-  <br><strong>DevHub</strong>
-  <p>A developer productivity platform integrating code snippets, project tracking, and API tools in one dashboard.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/ChPuru/Portfolio">
-    <img src="https://your-image-or-gif-link.com/portfolio.gif" alt="Portfolio" width="100%">
-  </a>
-  <br><strong>Portfolio Website</strong>
-  <p>My personal portfolio built with Next.js and TailwindCSS, showcasing my work and skills.</p>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/ChPuru/System-Monitor">
-    <img src="https://your-image-or-gif-link.com/system-monitor.gif" alt="System Monitor" width="100%">
-  </a>
-  <br><strong>System Monitor</strong>
-  <p>A lightweight tool for real-time system metrics visualization using Python and Electron.</p>
-</td>
-</tr>
-</table>
 
 ---
 
