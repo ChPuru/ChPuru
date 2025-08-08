@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.gif" alt="Purunjay's Banner" width="100%" />
+  <img src="[https://your-banner-image-url.com/banner.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8m2i8G6H7d3K9_iron-man-logo-poster%2F&psig=AOvVaw0brwAJymUClAg-JmrLERMZ&ust=1754764312460000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC3otXs-44DFQAAAAAdAAAAABAL)" alt="Purunjay's Banner" width="100%" />
 </p>
 
 <!-- MAIN HEADING -->
@@ -109,31 +109,40 @@
     <img src="https://your-image-or-gif-link.com/jarvis.gif" alt="JARVIS" width="100%">
   </a>
   <br><strong>JARVIS</strong>
-  <p>AI-powered personal assistant with automation capabilities.</p>
+  <p>AI-powered personal assistant with voice commands, automation, and API integrations.</p>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/ChPuru/another-project">
-    <img src="https://your-image-or-gif-link.com/project.gif" alt="Project" width="100%">
+  <a href="https://github.com/ChPuru/Portfolio">
+    <img src="https://your-image-or-gif-link.com/portfolio.gif" alt="Portfolio" width="100%">
   </a>
-  <br><strong>Another Project</strong>
-  <p>Brief description and tech stack.</p>
+  <br><strong>Portfolio Website</strong>
+  <p>Personal portfolio built with Next.js and TailwindCSS, featuring smooth animations and responsive design.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/ChPuru/TaskManager">
+    <img src="https://your-image-or-gif-link.com/taskmanager.gif" alt="Task Manager" width="100%">
+  </a>
+  <br><strong>Task Manager</strong>
+  <p>Full-stack task tracking app with JWT authentication, built with MERN stack.</p>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/ChPuru/Weather-App">
+    <img src="https://your-image-or-gif-link.com/weather.gif" alt="Weather App" width="100%">
+  </a>
+  <br><strong>Weather App</strong>
+  <p>Real-time weather dashboard using OpenWeather API and React.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- BLOG POSTS (Optional) -->
-<h2 align="center">📰 Recent Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- SPOTIFY STATUS (Optional) -->
+<!-- SPOTIFY STATUS -->
 <h2 align="center">🎧 Now Playing on Spotify</h2>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://novatorem-ChPuru.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 ---
