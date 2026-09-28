@@ -1,98 +1,37 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/V0bGBjp.gif" alt="Purunjay's Banner" width="100%" />
-</p>
+<!-- hero: scripts/build_hero.py -> assets/bsod.svg. fetch card: .github/workflows/fetch.yml refreshes assets/fetch.svg daily. -->
+<a href="https://www.linkedin.com/in/purunjay-choudhary">
+  <img src="assets/bsod.svg" width="100%" alt="A blue screen whose sad face glitches into a smile. Purunjay Choudhary. Computer engineering student at KJSCE, Mumbai. I build operating systems, compilers and databases. Stop code: BUILT_FROM_SCRATCH." />
+</a>
 
-<!-- MAIN HEADING -->
-<div align="center">
-  <h1>Hi 👋, I'm Purunjay</h1>
-  <h3>Full-Stack Developer | AI & Systems Programming Enthusiast | Lifelong Learner</h3>
-  <p>📍 Mumbai, India</p>
-</div>
+Hi, I'm **Purunjay**, a computer engineering student at K. J. Somaiya School of Engineering in Mumbai. I work on systems software: operating systems, compilers, databases and container runtimes, mostly in Rust and Go, plus some Python and machine learning.
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3390F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Full-Stack+Developer;AI+%26+Systems+Programming+Enthusiast;Building+JARVIS;Always+Learning+%26+Improving" alt="Typing SVG" />
-  </a>
-</p>
+I'm open to **software engineering internships** in systems, backend and infrastructure.
 
-<!-- TERMINAL STYLE NEOFETCH -->
-<div align="center">
 <pre>
-<b>ChPuru@github</b>
---------------------
-<b>OS:</b>           Arch
-<b>Host:</b>         Purunjay
-<b>Uptime:</b>       19 years
-<b>Shell:</b>        zsh
-<b>Editor:</b>       Vim
-<b>Resolution:</b>   1920x1080
-<b>WM:</b>           Hyprland(riced)
-<b>Theme:</b>        Tokyo Night
+reboot: Restarting system
+[    0.000000] <a href="https://github.com/ChPuru/hematite">hematite</a>: x86-64 OS in Rust, boots to its own desktop
+[    0.314159] <a href="https://github.com/ChPuru/Keel">keel</a>: compiled language and toolchain, no LLVM, zero deps
+[  OK  ] Mounted <a href="https://github.com/ChPuru/quiver">quiver</a>: vectors, records, KV and full-text in one file
+[  OK  ] Started <a href="https://github.com/ChPuru/Container">hull</a>: container engine in Go that speaks the Docker API
+[  OK  ] Started <a href="https://github.com/ChPuru/vcgit">vc</a>: jj-style version control on plain git, plus a forge
+[  OK  ] Started <a href="https://github.com/ChPuru/Pylon">pylon</a>: reverse proxy with hot-reloading WASM plugins
+[  OK  ] Started <a href="https://github.com/ChPuru/Relay">relay</a>: API client where every request is a TOML file
+[  OK  ] Started <a href="https://github.com/ChPuru/Torrent_client">btclient</a>: torrent daemon with a qBittorrent-compatible API
+[  OK  ] Started <a href="https://github.com/ChPuru/Blockchain">ferrum</a>: UTXO blockchain with its own script VM
+[  OK  ] Loaded <a href="https://github.com/ChPuru/NN-">scratchgrad</a>: deep learning in NumPy, every gradient by hand
+[  OK  ] Loaded <a href="https://github.com/ChPuru/Scratch_LLM">tinyllm</a>: 1.7M-param language model that runs in a browser tab
+[  OK  ] Started <a href="https://github.com/ChPuru/arc">arc</a>: offline voice assistant with RAG and long-term memory
+[  OK  ] Started <a href="https://github.com/ChPuru/SIH26_63">kasauti</a>: deepfake forensics for Indian-language media (SIH 2026)
+[  OK  ] Started <a href="https://github.com/ChPuru/Framework">filum</a>: UI framework, signals + compiled JSX, no virtual DOM
+[  OK  ] Started <a href="https://github.com/ChPuru/netscape">netscape-matrix</a>: privacy browser, Tor tabs, its own search engine
+[  OK  ] Started <a href="https://github.com/ChPuru/Nuctify">nuctify</a>: one player for YT Music, JioSaavn, SoundCloud and more
+[  OK  ] Reached target graphical.target.
 
---- <b>About Me</b> ---
-🔭 Currently working on <b>JARVIS</b>
-🌱 Learning <b>Systems languages & refining my skills</b>
-👯 Looking to collaborate on <b>AI, automation, and full-stack projects</b>
-💬 Ask me about <b>AI, backend systems, and automation tools</b>
-📫 Reach me at: <b>ch.puru31@gmail.com</b>
-⚡ Fun fact: I treat my code like art 🎨
+purunjay login: _
 </pre>
-</div>
 
-<!-- SOCIAL LINKS -->
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/purunjay-choudhary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://purunjay-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" />
-  </a>
-  <a href="mailto:ch.puru31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="assets/fetch.svg" width="100%" alt="System report, refreshed daily: Arch Linux and NixOS, Hyprland, zsh with starship, Neovim; public repo count, languages of recent repos and latest push; focus on systems, backend and infrastructure; open to SWE internships." />
 
----
+**Contact:** <a href="mailto:ch.puru31@gmail.com"><kbd>email</kbd></a> <a href="https://www.linkedin.com/in/purunjay-choudhary"><kbd>linkedin</kbd></a>
 
-<!-- VISITOR COUNT -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChPuru&style=for-the-badge&color=blue" alt="Profile views"/>
-</p>
-
----
-
-<!-- LANGUAGES & TOOLS -->
-<h2 align="center">🛠 Languages and Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,django,docker,aws,gcp,kubernetes,bash,git,github,vscode,figma&perline=9" />
-</p>
-
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChPuru&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChPuru&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChPuru&theme=tokyonight" />
-</p>
-
----
-
-<!-- TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChPuru&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3390F7,100:255E63&height=150&section=footer"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ChPuru&label=profile+views&color=3445dc&style=flat-square" alt="profile views" />
